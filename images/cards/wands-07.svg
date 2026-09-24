@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 600" width="350" height="600">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#2a2140"/>
+<stop offset="1" stop-color="#12101f"/>
+</linearGradient>
+<radialGradient id="halo" cx="0.5" cy="0.5" r="0.62">
+<stop offset="0" stop-color="#f26d5b" stop-opacity="0.2"/>
+<stop offset="1" stop-color="#f26d5b" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="350" height="600" rx="24" fill="url(#bg)"/>
+<rect x="14" y="14" width="322" height="572" rx="15" fill="none" stroke="#d9b96a" stroke-width="2.5"/>
+<rect x="23" y="23" width="304" height="554" rx="11" fill="none" stroke="#8f7b3f" stroke-width="1"/>
+<rect x="30" y="30" width="290" height="540" rx="9" fill="url(#halo)"/>
+<polygon points="58.0,56.0 60.8,62.1 67.5,62.9 62.6,67.5 63.9,74.1 58.0,70.8 52.1,74.1 53.4,67.5 48.5,62.9 55.2,62.1" fill="#f26d5b"/><polygon points="292.0,56.0 294.8,62.1 301.5,62.9 296.6,67.5 297.9,74.1 292.0,70.8 286.1,74.1 287.4,67.5 282.5,62.9 289.2,62.1" fill="#f26d5b"/><polygon points="58.0,524.0 60.8,530.1 67.5,530.9 62.6,535.5 63.9,542.1 58.0,538.8 52.1,542.1 53.4,535.5 48.5,530.9 55.2,530.1" fill="#f26d5b"/><polygon points="292.0,524.0 294.8,530.1 301.5,530.9 296.6,535.5 297.9,542.1 292.0,538.8 286.1,542.1 287.4,535.5 282.5,530.9 289.2,530.1" fill="#f26d5b"/>
+<rect x="44" y="44" width="262" height="64" rx="32" fill="none" stroke="#f26d5b" stroke-width="1.6"/>
+<text x="175" y="86" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#f3e6bd" font-weight="bold">七</text>
+<text x="175" y="102" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="2" fill="#f26d5b">火</text>
+<line x1="115" y1="165" x2="115" y2="205" stroke="#f26d5b" stroke-width="4" stroke-linecap="round"/><polygon points="115,154 121.4,165 115,173 108.6,165" fill="#f26d5b"/><path d="M 115 170 Q 126 173 121 180 Q 117.8 177 115 174 Z" fill="#f26d5b"/><path d="M 115 170 Q 104 173 109 180 Q 112.2 177 115 174 Z" fill="#f26d5b"/><line x1="235" y1="165" x2="235" y2="205" stroke="#f26d5b" stroke-width="4" stroke-linecap="round"/><polygon points="235,154 241.4,165 235,173 228.6,165" fill="#f26d5b"/><path d="M 235 170 Q 246 173 241 180 Q 237.8 177 235 174 Z" fill="#f26d5b"/><path d="M 235 170 Q 224 173 229 180 Q 232.2 177 235 174 Z" fill="#f26d5b"/><line x1="115" y1="280" x2="115" y2="320" stroke="#f26d5b" stroke-width="4" stroke-linecap="round"/><polygon points="115,269 121.4,280 115,288 108.6,280" fill="#f26d5b"/><path d="M 115 285 Q 126 288 121 295 Q 117.8 292 115 289 Z" fill="#f26d5b"/><path d="M 115 285 Q 104 288 109 295 Q 112.2 292 115 289 Z" fill="#f26d5b"/><line x1="175" y1="280" x2="175" y2="320" stroke="#f26d5b" stroke-width="4" stroke-linecap="round"/><polygon points="175,269 181.4,280 175,288 168.6,280" fill="#f26d5b"/><path d="M 175 285 Q 186 288 181 295 Q 177.8 292 175 289 Z" fill="#f26d5b"/><path d="M 175 285 Q 164 288 169 295 Q 172.2 292 175 289 Z" fill="#f26d5b"/><line x1="235" y1="280" x2="235" y2="320" stroke="#f26d5b" stroke-width="4" stroke-linecap="round"/><polygon points="235,269 241.4,280 235,288 228.6,280" fill="#f26d5b"/><path d="M 235 285 Q 246 288 241 295 Q 237.8 292 235 289 Z" fill="#f26d5b"/><path d="M 235 285 Q 224 288 229 295 Q 232.2 292 235 289 Z" fill="#f26d5b"/><line x1="115" y1="395" x2="115" y2="435" stroke="#f26d5b" stroke-width="4" stroke-linecap="round"/><polygon points="115,384 121.4,395 115,403 108.6,395" fill="#f26d5b"/><path d="M 115 400 Q 126 403 121 410 Q 117.8 407 115 404 Z" fill="#f26d5b"/><path d="M 115 400 Q 104 403 109 410 Q 112.2 407 115 404 Z" fill="#f26d5b"/><line x1="235" y1="395" x2="235" y2="435" stroke="#f26d5b" stroke-width="4" stroke-linecap="round"/><polygon points="235,384 241.4,395 235,403 228.6,395" fill="#f26d5b"/><path d="M 235 400 Q 246 403 241 410 Q 237.8 407 235 404 Z" fill="#f26d5b"/><path d="M 235 400 Q 224 403 229 410 Q 232.2 407 235 404 Z" fill="#f26d5b"/>
+<rect x="54" y="502" width="242" height="58" rx="29" fill="none" stroke="#8f7b3f" stroke-width="1.4"/>
+<text x="175" y="540" text-anchor="middle" font-family="Georgia, 'Microsoft YaHei', serif" font-size="30" fill="#f3e6bd">权杖</text>
+</svg>

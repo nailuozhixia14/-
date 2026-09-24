@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 600" width="350" height="600">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#2a2140"/>
+<stop offset="1" stop-color="#12101f"/>
+</linearGradient>
+<radialGradient id="halo" cx="0.5" cy="0.5" r="0.62">
+<stop offset="0" stop-color="#8fd694" stop-opacity="0.2"/>
+<stop offset="1" stop-color="#8fd694" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="350" height="600" rx="24" fill="url(#bg)"/>
+<rect x="14" y="14" width="322" height="572" rx="15" fill="none" stroke="#d9b96a" stroke-width="2.5"/>
+<rect x="23" y="23" width="304" height="554" rx="11" fill="none" stroke="#8f7b3f" stroke-width="1"/>
+<rect x="30" y="30" width="290" height="540" rx="9" fill="url(#halo)"/>
+<polygon points="58.0,56.0 60.8,62.1 67.5,62.9 62.6,67.5 63.9,74.1 58.0,70.8 52.1,74.1 53.4,67.5 48.5,62.9 55.2,62.1" fill="#8fd694"/><polygon points="292.0,56.0 294.8,62.1 301.5,62.9 296.6,67.5 297.9,74.1 292.0,70.8 286.1,74.1 287.4,67.5 282.5,62.9 289.2,62.1" fill="#8fd694"/><polygon points="58.0,524.0 60.8,530.1 67.5,530.9 62.6,535.5 63.9,542.1 58.0,538.8 52.1,542.1 53.4,535.5 48.5,530.9 55.2,530.1" fill="#8fd694"/><polygon points="292.0,524.0 294.8,530.1 301.5,530.9 296.6,535.5 297.9,542.1 292.0,538.8 286.1,542.1 287.4,535.5 282.5,530.9 289.2,530.1" fill="#8fd694"/>
+<rect x="44" y="44" width="262" height="64" rx="32" fill="none" stroke="#8fd694" stroke-width="1.6"/>
+<text x="175" y="86" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#f3e6bd" font-weight="bold">十</text>
+<text x="175" y="102" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="2" fill="#8fd694">土</text>
+<circle cx="115" cy="165" r="16.4" fill="none" stroke="#8fd694" stroke-width="3"/><polygon points="115.0,155.0 117.8,161.1 124.5,161.9 119.6,166.5 120.9,173.1 115.0,169.8 109.1,173.1 110.4,166.5 105.5,161.9 112.2,161.1" fill="#8fd694"/><circle cx="235" cy="165" r="16.4" fill="none" stroke="#8fd694" stroke-width="3"/><polygon points="235.0,155.0 237.8,161.1 244.5,161.9 239.6,166.5 240.9,173.1 235.0,169.8 229.1,173.1 230.4,166.5 225.5,161.9 232.2,161.1" fill="#8fd694"/><circle cx="115" cy="235" r="16.4" fill="none" stroke="#8fd694" stroke-width="3"/><polygon points="115.0,225.0 117.8,231.1 124.5,231.9 119.6,236.5 120.9,243.1 115.0,239.8 109.1,243.1 110.4,236.5 105.5,231.9 112.2,231.1" fill="#8fd694"/><circle cx="235" cy="235" r="16.4" fill="none" stroke="#8fd694" stroke-width="3"/><polygon points="235.0,225.0 237.8,231.1 244.5,231.9 239.6,236.5 240.9,243.1 235.0,239.8 229.1,243.1 230.4,236.5 225.5,231.9 232.2,231.1" fill="#8fd694"/><circle cx="115" cy="300" r="16.4" fill="none" stroke="#8fd694" stroke-width="3"/><polygon points="115.0,290.0 117.8,296.1 124.5,296.9 119.6,301.5 120.9,308.1 115.0,304.8 109.1,308.1 110.4,301.5 105.5,296.9 112.2,296.1" fill="#8fd694"/><circle cx="235" cy="300" r="16.4" fill="none" stroke="#8fd694" stroke-width="3"/><polygon points="235.0,290.0 237.8,296.1 244.5,296.9 239.6,301.5 240.9,308.1 235.0,304.8 229.1,308.1 230.4,301.5 225.5,296.9 232.2,296.1" fill="#8fd694"/><circle cx="115" cy="365" r="16.4" fill="none" stroke="#8fd694" stroke-width="3"/><polygon points="115.0,355.0 117.8,361.1 124.5,361.9 119.6,366.5 120.9,373.1 115.0,369.8 109.1,373.1 110.4,366.5 105.5,361.9 112.2,361.1" fill="#8fd694"/><circle cx="235" cy="365" r="16.4" fill="none" stroke="#8fd694" stroke-width="3"/><polygon points="235.0,355.0 237.8,361.1 244.5,361.9 239.6,366.5 240.9,373.1 235.0,369.8 229.1,373.1 230.4,366.5 225.5,361.9 232.2,361.1" fill="#8fd694"/><circle cx="115" cy="430" r="16.4" fill="none" stroke="#8fd694" stroke-width="3"/><polygon points="115.0,420.0 117.8,426.1 124.5,426.9 119.6,431.5 120.9,438.1 115.0,434.8 109.1,438.1 110.4,431.5 105.5,426.9 112.2,426.1" fill="#8fd694"/><circle cx="235" cy="430" r="16.4" fill="none" stroke="#8fd694" stroke-width="3"/><polygon points="235.0,420.0 237.8,426.1 244.5,426.9 239.6,431.5 240.9,438.1 235.0,434.8 229.1,438.1 230.4,431.5 225.5,426.9 232.2,426.1" fill="#8fd694"/>
+<rect x="54" y="502" width="242" height="58" rx="29" fill="none" stroke="#8f7b3f" stroke-width="1.4"/>
+<text x="175" y="540" text-anchor="middle" font-family="Georgia, 'Microsoft YaHei', serif" font-size="30" fill="#f3e6bd">星币</text>
+</svg>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>塔罗秘境 · Arcana</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <canvas id="starfield" aria-hidden="true"></canvas>
+
+  <div class="nebula" id="nebulaA" data-depth="18" aria-hidden="true"></div>
+  <div class="nebula" id="nebulaB" data-depth="34" aria-hidden="true"></div>
+  <div class="nebula" id="nebulaC" data-depth="52" aria-hidden="true"></div>
+
+  <div id="cursor-glow" aria-hidden="true"></div>
+  <div id="cursor-ring" aria-hidden="true"></div>
+
+  <div class="app">
+    <header class="app-header">
+      <p class="eyebrow">A · R · C · A · N · A</p>
+      <h1 class="logo">塔罗秘境</h1>
+      <p class="subtitle">凝视命运的低语，抽取属于你的启示</p>
+    </header>
+
+    <section class="toolbar" aria-label="操作栏">
+      <div class="mode-group" id="modeGroup" role="group" aria-label="牌阵选择">
+        <button class="mode-btn active" type="button" data-mode="single">单张牌阵</button>
+        <button class="mode-btn" type="button" data-mode="three">三牌阵</button>
+        <button class="mode-btn" type="button" data-mode="celtic">凯尔特十字</button>
+      </div>
+      <div class="action-group">
+        <button class="btn btn-ghost" id="shuffleBtn" type="button">洗牌</button>
+        <button class="btn btn-primary" id="drawBtn" type="button">抽牌</button>
+        <button class="btn btn-ghost" id="resetBtn" type="button">重来</button>
+      </div>
+    </section>
+
+    <main class="table" id="table">
+      <div class="slots" id="slots"></div>
+
+      <div class="deck-zone" id="deckZone">
+        <button class="deck" id="deckBtn" type="button" aria-label="点击牌堆抽牌">
+          <div class="deck-stack" id="deckStack"></div>
+          <span class="deck-count" id="deckCount">78</span>
+        </button>
+        <p class="hint" id="hint">点击牌堆，或按下「抽牌」按钮</p>
+      </div>
+    </main>
+
+    <section class="reading" id="reading" hidden aria-live="polite"></section>
+
+    <footer class="app-footer">
+      <span>移动鼠标召唤星光 · 悬停卡牌可 3D 倾斜观察</span>
+    </footer>
+  </div>
+
+  <script src="js/deck.js"></script>
+  <script src="js/effects.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>

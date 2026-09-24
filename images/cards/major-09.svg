@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 600" width="350" height="600">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#2a2140"/>
+<stop offset="1" stop-color="#12101f"/>
+</linearGradient>
+<radialGradient id="halo" cx="0.5" cy="0.5" r="0.62">
+<stop offset="0" stop-color="#8f9bb3" stop-opacity="0.2"/>
+<stop offset="1" stop-color="#8f9bb3" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="350" height="600" rx="24" fill="url(#bg)"/>
+<rect x="14" y="14" width="322" height="572" rx="15" fill="none" stroke="#d9b96a" stroke-width="2.5"/>
+<rect x="23" y="23" width="304" height="554" rx="11" fill="none" stroke="#8f7b3f" stroke-width="1"/>
+<rect x="30" y="30" width="290" height="540" rx="9" fill="url(#halo)"/>
+<polygon points="58.0,56.0 60.8,62.1 67.5,62.9 62.6,67.5 63.9,74.1 58.0,70.8 52.1,74.1 53.4,67.5 48.5,62.9 55.2,62.1" fill="#8f9bb3"/><polygon points="292.0,56.0 294.8,62.1 301.5,62.9 296.6,67.5 297.9,74.1 292.0,70.8 286.1,74.1 287.4,67.5 282.5,62.9 289.2,62.1" fill="#8f9bb3"/><polygon points="58.0,524.0 60.8,530.1 67.5,530.9 62.6,535.5 63.9,542.1 58.0,538.8 52.1,542.1 53.4,535.5 48.5,530.9 55.2,530.1" fill="#8f9bb3"/><polygon points="292.0,524.0 294.8,530.1 301.5,530.9 296.6,535.5 297.9,542.1 292.0,538.8 286.1,542.1 287.4,535.5 282.5,530.9 289.2,530.1" fill="#8f9bb3"/>
+<rect x="44" y="44" width="262" height="64" rx="32" fill="none" stroke="#8f9bb3" stroke-width="1.6"/>
+<text x="175" y="86" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#f3e6bd" font-weight="bold">IX</text>
+<text x="175" y="102" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="2" fill="#8f9bb3">THE HERMIT</text>
+<line x1="175" y1="282" x2="175" y2="354" stroke="#8f9bb3" stroke-width="6"/><path d="M 161 298 L 189 298 L 193 312 L 157 312 Z" fill="#8f9bb3"/><rect x="155" y="312" width="40" height="34" rx="6" fill="none" stroke="#8f9bb3" stroke-width="5"/><circle cx="175" cy="330" r="8.8" fill="#8f9bb3"/><line x1="153" y1="350" x2="197" y2="350" stroke="#8f9bb3" stroke-width="5"/><line x1="118" y1="430" x2="232" y2="205" stroke="#d9b96a" stroke-width="6"/><polygon points="232.0,194.0 235.1,200.7 242.5,201.6 237.0,206.6 238.5,213.9 232.0,210.3 225.5,213.9 227.0,206.6 221.5,201.6 228.9,200.7" fill="#d9b96a"/>
+<rect x="54" y="502" width="242" height="58" rx="29" fill="none" stroke="#8f7b3f" stroke-width="1.4"/>
+<text x="175" y="540" text-anchor="middle" font-family="Georgia, 'Microsoft YaHei', serif" font-size="30" fill="#f3e6bd">隐者</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 600" width="350" height="600">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#2a2140"/>
+<stop offset="1" stop-color="#12101f"/>
+</linearGradient>
+<radialGradient id="halo" cx="0.5" cy="0.5" r="0.62">
+<stop offset="0" stop-color="#8fd694" stop-opacity="0.2"/>
+<stop offset="1" stop-color="#8fd694" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="350" height="600" rx="24" fill="url(#bg)"/>
+<rect x="14" y="14" width="322" height="572" rx="15" fill="none" stroke="#d9b96a" stroke-width="2.5"/>
+<rect x="23" y="23" width="304" height="554" rx="11" fill="none" stroke="#8f7b3f" stroke-width="1"/>
+<rect x="30" y="30" width="290" height="540" rx="9" fill="url(#halo)"/>
+<polygon points="58.0,56.0 60.8,62.1 67.5,62.9 62.6,67.5 63.9,74.1 58.0,70.8 52.1,74.1 53.4,67.5 48.5,62.9 55.2,62.1" fill="#8fd694"/><polygon points="292.0,56.0 294.8,62.1 301.5,62.9 296.6,67.5 297.9,74.1 292.0,70.8 286.1,74.1 287.4,67.5 282.5,62.9 289.2,62.1" fill="#8fd694"/><polygon points="58.0,524.0 60.8,530.1 67.5,530.9 62.6,535.5 63.9,542.1 58.0,538.8 52.1,542.1 53.4,535.5 48.5,530.9 55.2,530.1" fill="#8fd694"/><polygon points="292.0,524.0 294.8,530.1 301.5,530.9 296.6,535.5 297.9,542.1 292.0,538.8 286.1,542.1 287.4,535.5 282.5,530.9 289.2,530.1" fill="#8fd694"/>
+<rect x="44" y="44" width="262" height="64" rx="32" fill="none" stroke="#8fd694" stroke-width="1.6"/>
+<text x="175" y="86" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#f3e6bd" font-weight="bold">八</text>
+<text x="175" y="102" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="2" fill="#8fd694">土</text>
+<circle cx="115" cy="175" r="16.4" fill="none" stroke="#8fd694" stroke-width="3"/><polygon points="115.0,165.0 117.8,171.1 124.5,171.9 119.6,176.5 120.9,183.1 115.0,179.8 109.1,183.1 110.4,176.5 105.5,171.9 112.2,171.1" fill="#8fd694"/><circle cx="235" cy="175" r="16.4" fill="none" stroke="#8fd694" stroke-width="3"/><polygon points="235.0,165.0 237.8,171.1 244.5,171.9 239.6,176.5 240.9,183.1 235.0,179.8 229.1,183.1 230.4,176.5 225.5,171.9 232.2,171.1" fill="#8fd694"/><circle cx="115" cy="255" r="16.4" fill="none" stroke="#8fd694" stroke-width="3"/><polygon points="115.0,245.0 117.8,251.1 124.5,251.9 119.6,256.5 120.9,263.1 115.0,259.8 109.1,263.1 110.4,256.5 105.5,251.9 112.2,251.1" fill="#8fd694"/><circle cx="235" cy="255" r="16.4" fill="none" stroke="#8fd694" stroke-width="3"/><polygon points="235.0,245.0 237.8,251.1 244.5,251.9 239.6,256.5 240.9,263.1 235.0,259.8 229.1,263.1 230.4,256.5 225.5,251.9 232.2,251.1" fill="#8fd694"/><circle cx="115" cy="345" r="16.4" fill="none" stroke="#8fd694" stroke-width="3"/><polygon points="115.0,335.0 117.8,341.1 124.5,341.9 119.6,346.5 120.9,353.1 115.0,349.8 109.1,353.1 110.4,346.5 105.5,341.9 112.2,341.1" fill="#8fd694"/><circle cx="235" cy="345" r="16.4" fill="none" stroke="#8fd694" stroke-width="3"/><polygon points="235.0,335.0 237.8,341.1 244.5,341.9 239.6,346.5 240.9,353.1 235.0,349.8 229.1,353.1 230.4,346.5 225.5,341.9 232.2,341.1" fill="#8fd694"/><circle cx="115" cy="425" r="16.4" fill="none" stroke="#8fd694" stroke-width="3"/><polygon points="115.0,415.0 117.8,421.1 124.5,421.9 119.6,426.5 120.9,433.1 115.0,429.8 109.1,433.1 110.4,426.5 105.5,421.9 112.2,421.1" fill="#8fd694"/><circle cx="235" cy="425" r="16.4" fill="none" stroke="#8fd694" stroke-width="3"/><polygon points="235.0,415.0 237.8,421.1 244.5,421.9 239.6,426.5 240.9,433.1 235.0,429.8 229.1,433.1 230.4,426.5 225.5,421.9 232.2,421.1" fill="#8fd694"/>
+<rect x="54" y="502" width="242" height="58" rx="29" fill="none" stroke="#8f7b3f" stroke-width="1.4"/>
+<text x="175" y="540" text-anchor="middle" font-family="Georgia, 'Microsoft YaHei', serif" font-size="30" fill="#f3e6bd">星币</text>
+</svg>

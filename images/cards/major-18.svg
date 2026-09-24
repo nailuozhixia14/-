@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 600" width="350" height="600">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#2a2140"/>
+<stop offset="1" stop-color="#12101f"/>
+</linearGradient>
+<radialGradient id="halo" cx="0.5" cy="0.5" r="0.62">
+<stop offset="0" stop-color="#b9c9ff" stop-opacity="0.2"/>
+<stop offset="1" stop-color="#b9c9ff" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="350" height="600" rx="24" fill="url(#bg)"/>
+<rect x="14" y="14" width="322" height="572" rx="15" fill="none" stroke="#d9b96a" stroke-width="2.5"/>
+<rect x="23" y="23" width="304" height="554" rx="11" fill="none" stroke="#8f7b3f" stroke-width="1"/>
+<rect x="30" y="30" width="290" height="540" rx="9" fill="url(#halo)"/>
+<polygon points="58.0,56.0 60.8,62.1 67.5,62.9 62.6,67.5 63.9,74.1 58.0,70.8 52.1,74.1 53.4,67.5 48.5,62.9 55.2,62.1" fill="#b9c9ff"/><polygon points="292.0,56.0 294.8,62.1 301.5,62.9 296.6,67.5 297.9,74.1 292.0,70.8 286.1,74.1 287.4,67.5 282.5,62.9 289.2,62.1" fill="#b9c9ff"/><polygon points="58.0,524.0 60.8,530.1 67.5,530.9 62.6,535.5 63.9,542.1 58.0,538.8 52.1,542.1 53.4,535.5 48.5,530.9 55.2,530.1" fill="#b9c9ff"/><polygon points="292.0,524.0 294.8,530.1 301.5,530.9 296.6,535.5 297.9,542.1 292.0,538.8 286.1,542.1 287.4,535.5 282.5,530.9 289.2,530.1" fill="#b9c9ff"/>
+<rect x="44" y="44" width="262" height="64" rx="32" fill="none" stroke="#b9c9ff" stroke-width="1.6"/>
+<text x="175" y="86" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#f3e6bd" font-weight="bold">XVIII</text>
+<text x="175" y="102" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="2" fill="#b9c9ff">THE MOON</text>
+<path fill-rule="evenodd" fill="#b9c9ff" d="M 175 300 m -72 0 a 72 72 0 1 0 144 0 a 72 72 0 1 0 -144 0 M 206.68 296.4 m -72 0 a 72 72 0 1 0 144 0 a 72 72 0 1 0 -144 0 Z"/><circle cx="175" cy="300" r="50" fill="#241b3d" opacity="0.4"/><circle cx="158" cy="288" r="7" fill="#d9b96a"/><circle cx="192" cy="288" r="7" fill="#d9b96a"/><path d="M 160 322 Q 175 338 190 322" stroke="#d9b96a" stroke-width="5" fill="none" stroke-linecap="round"/><polygon points="88.0,178.0 91.4,185.3 99.4,186.3 93.5,191.8 95.1,199.7 88.0,195.8 80.9,199.7 82.5,191.8 76.6,186.3 84.6,185.3" fill="#d9b96a"/><polygon points="260.0,223.0 262.5,228.5 268.6,229.2 264.1,233.3 265.3,239.3 260.0,236.3 254.7,239.3 255.9,233.3 251.4,229.2 257.5,228.5" fill="#d9b96a"/><polygon points="118.0,422.0 120.8,428.1 127.5,428.9 122.6,433.5 123.9,440.1 118.0,436.8 112.1,440.1 113.4,433.5 108.5,428.9 115.2,428.1" fill="#d9b96a"/><path d="M 128 454 Q 175 424 222 454" stroke="#b9c9ff" stroke-width="5" fill="none"/>
+<rect x="54" y="502" width="242" height="58" rx="29" fill="none" stroke="#8f7b3f" stroke-width="1.4"/>
+<text x="175" y="540" text-anchor="middle" font-family="Georgia, 'Microsoft YaHei', serif" font-size="30" fill="#f3e6bd">月亮</text>
+</svg>

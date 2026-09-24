@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 600" width="350" height="600">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#2a2140"/>
+<stop offset="1" stop-color="#12101f"/>
+</linearGradient>
+<radialGradient id="halo" cx="0.5" cy="0.5" r="0.62">
+<stop offset="0" stop-color="#ffb24d" stop-opacity="0.2"/>
+<stop offset="1" stop-color="#ffb24d" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="350" height="600" rx="24" fill="url(#bg)"/>
+<rect x="14" y="14" width="322" height="572" rx="15" fill="none" stroke="#d9b96a" stroke-width="2.5"/>
+<rect x="23" y="23" width="304" height="554" rx="11" fill="none" stroke="#8f7b3f" stroke-width="1"/>
+<rect x="30" y="30" width="290" height="540" rx="9" fill="url(#halo)"/>
+<polygon points="58.0,56.0 60.8,62.1 67.5,62.9 62.6,67.5 63.9,74.1 58.0,70.8 52.1,74.1 53.4,67.5 48.5,62.9 55.2,62.1" fill="#ffb24d"/><polygon points="292.0,56.0 294.8,62.1 301.5,62.9 296.6,67.5 297.9,74.1 292.0,70.8 286.1,74.1 287.4,67.5 282.5,62.9 289.2,62.1" fill="#ffb24d"/><polygon points="58.0,524.0 60.8,530.1 67.5,530.9 62.6,535.5 63.9,542.1 58.0,538.8 52.1,542.1 53.4,535.5 48.5,530.9 55.2,530.1" fill="#ffb24d"/><polygon points="292.0,524.0 294.8,530.1 301.5,530.9 296.6,535.5 297.9,542.1 292.0,538.8 286.1,542.1 287.4,535.5 282.5,530.9 289.2,530.1" fill="#ffb24d"/>
+<rect x="44" y="44" width="262" height="64" rx="32" fill="none" stroke="#ffb24d" stroke-width="1.6"/>
+<text x="175" y="86" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#f3e6bd" font-weight="bold">VIII</text>
+<text x="175" y="102" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="2" fill="#ffb24d">STRENGTH</text>
+<circle cx="147.5" cy="220" r="30.800000000000004" fill="none" stroke="#ffb24d" stroke-width="9"/><circle cx="202.5" cy="220" r="30.800000000000004" fill="none" stroke="#ffb24d" stroke-width="9"/><line x1="222.8" y1="360.0" x2="234.8" y2="360.0" stroke="#ffb24d" stroke-width="5" stroke-linecap="round"/><line x1="220.5" y1="374.8" x2="231.9" y2="378.5" stroke="#ffb24d" stroke-width="5" stroke-linecap="round"/><line x1="213.7" y1="388.1" x2="223.4" y2="395.1" stroke="#ffb24d" stroke-width="5" stroke-linecap="round"/><line x1="203.1" y1="398.7" x2="210.1" y2="408.4" stroke="#ffb24d" stroke-width="5" stroke-linecap="round"/><line x1="189.8" y1="405.5" x2="193.5" y2="416.9" stroke="#ffb24d" stroke-width="5" stroke-linecap="round"/><line x1="175.0" y1="407.8" x2="175.0" y2="419.8" stroke="#ffb24d" stroke-width="5" stroke-linecap="round"/><line x1="160.2" y1="405.5" x2="156.5" y2="416.9" stroke="#ffb24d" stroke-width="5" stroke-linecap="round"/><line x1="146.9" y1="398.7" x2="139.9" y2="408.4" stroke="#ffb24d" stroke-width="5" stroke-linecap="round"/><line x1="136.3" y1="388.1" x2="126.6" y2="395.1" stroke="#ffb24d" stroke-width="5" stroke-linecap="round"/><line x1="129.5" y1="374.8" x2="118.1" y2="378.5" stroke="#ffb24d" stroke-width="5" stroke-linecap="round"/><line x1="127.2" y1="360.0" x2="115.2" y2="360.0" stroke="#ffb24d" stroke-width="5" stroke-linecap="round"/><line x1="129.5" y1="345.2" x2="118.1" y2="341.5" stroke="#ffb24d" stroke-width="5" stroke-linecap="round"/><line x1="136.3" y1="331.9" x2="126.6" y2="324.9" stroke="#ffb24d" stroke-width="5" stroke-linecap="round"/><line x1="146.9" y1="321.3" x2="139.9" y2="311.6" stroke="#ffb24d" stroke-width="5" stroke-linecap="round"/><line x1="160.2" y1="314.5" x2="156.5" y2="303.1" stroke="#ffb24d" stroke-width="5" stroke-linecap="round"/><line x1="175.0" y1="312.2" x2="175.0" y2="300.2" stroke="#ffb24d" stroke-width="5" stroke-linecap="round"/><line x1="189.8" y1="314.5" x2="193.5" y2="303.1" stroke="#ffb24d" stroke-width="5" stroke-linecap="round"/><line x1="203.1" y1="321.3" x2="210.1" y2="311.6" stroke="#ffb24d" stroke-width="5" stroke-linecap="round"/><line x1="213.7" y1="331.9" x2="223.4" y2="324.9" stroke="#ffb24d" stroke-width="5" stroke-linecap="round"/><line x1="220.5" y1="345.2" x2="231.9" y2="341.5" stroke="#ffb24d" stroke-width="5" stroke-linecap="round"/><circle cx="175" cy="360" r="37.44" fill="#241b3d"/><circle cx="159.4" cy="352.2" r="5.2" fill="#ffb24d"/><circle cx="190.6" cy="352.2" r="5.2" fill="#ffb24d"/><path d="M 163.56 367.8 L 175 378.2 L 186.44 367.8" fill="none" stroke="#ffb24d" stroke-width="4"/>
+<rect x="54" y="502" width="242" height="58" rx="29" fill="none" stroke="#8f7b3f" stroke-width="1.4"/>
+<text x="175" y="540" text-anchor="middle" font-family="Georgia, 'Microsoft YaHei', serif" font-size="30" fill="#f3e6bd">力量</text>
+</svg>

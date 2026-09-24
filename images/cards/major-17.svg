@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 600" width="350" height="600">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#2a2140"/>
+<stop offset="1" stop-color="#12101f"/>
+</linearGradient>
+<radialGradient id="halo" cx="0.5" cy="0.5" r="0.62">
+<stop offset="0" stop-color="#ffe27a" stop-opacity="0.2"/>
+<stop offset="1" stop-color="#ffe27a" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="350" height="600" rx="24" fill="url(#bg)"/>
+<rect x="14" y="14" width="322" height="572" rx="15" fill="none" stroke="#d9b96a" stroke-width="2.5"/>
+<rect x="23" y="23" width="304" height="554" rx="11" fill="none" stroke="#8f7b3f" stroke-width="1"/>
+<rect x="30" y="30" width="290" height="540" rx="9" fill="url(#halo)"/>
+<polygon points="58.0,56.0 60.8,62.1 67.5,62.9 62.6,67.5 63.9,74.1 58.0,70.8 52.1,74.1 53.4,67.5 48.5,62.9 55.2,62.1" fill="#ffe27a"/><polygon points="292.0,56.0 294.8,62.1 301.5,62.9 296.6,67.5 297.9,74.1 292.0,70.8 286.1,74.1 287.4,67.5 282.5,62.9 289.2,62.1" fill="#ffe27a"/><polygon points="58.0,524.0 60.8,530.1 67.5,530.9 62.6,535.5 63.9,542.1 58.0,538.8 52.1,542.1 53.4,535.5 48.5,530.9 55.2,530.1" fill="#ffe27a"/><polygon points="292.0,524.0 294.8,530.1 301.5,530.9 296.6,535.5 297.9,542.1 292.0,538.8 286.1,542.1 287.4,535.5 282.5,530.9 289.2,530.1" fill="#ffe27a"/>
+<rect x="44" y="44" width="262" height="64" rx="32" fill="none" stroke="#ffe27a" stroke-width="1.6"/>
+<text x="175" y="86" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#f3e6bd" font-weight="bold">XVII</text>
+<text x="175" y="102" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="2" fill="#ffe27a">THE STAR</text>
+<path fill="#ffe27a" d="M 245.0,272.0 175.0,342.0 105.0,272.0 175.0,202.0 Z M 224.5,321.5 125.5,321.5 125.5,222.5 224.5,222.5 Z"/><polygon points="90.0,177.0 93.7,185.0 102.4,186.0 95.9,191.9 97.6,200.5 90.0,196.2 82.4,200.5 84.1,191.9 77.6,186.0 86.3,185.0" fill="#d9b96a"/><polygon points="255.0,194.0 258.1,200.7 265.5,201.6 260.0,206.6 261.5,213.9 255.0,210.3 248.5,213.9 250.0,206.6 244.5,201.6 251.9,200.7" fill="#d9b96a"/><polygon points="125.0,420.0 127.8,426.1 134.5,426.9 129.6,431.5 130.9,438.1 125.0,434.8 119.1,438.1 120.4,431.5 115.5,426.9 122.2,426.1" fill="#d9b96a"/><polygon points="225.0,416.0 228.4,423.3 236.4,424.3 230.5,429.8 232.1,437.7 225.0,433.8 217.9,437.7 219.5,429.8 213.6,424.3 221.6,423.3" fill="#d9b96a"/><path d="M 100 452 Q 175 424 250 452" stroke="#d9b96a" stroke-width="4" fill="none"/>
+<rect x="54" y="502" width="242" height="58" rx="29" fill="none" stroke="#8f7b3f" stroke-width="1.4"/>
+<text x="175" y="540" text-anchor="middle" font-family="Georgia, 'Microsoft YaHei', serif" font-size="30" fill="#f3e6bd">星星</text>
+</svg>

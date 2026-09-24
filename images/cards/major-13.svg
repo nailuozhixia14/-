@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 600" width="350" height="600">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#2a2140"/>
+<stop offset="1" stop-color="#12101f"/>
+</linearGradient>
+<radialGradient id="halo" cx="0.5" cy="0.5" r="0.62">
+<stop offset="0" stop-color="#d8d8e0" stop-opacity="0.2"/>
+<stop offset="1" stop-color="#d8d8e0" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="350" height="600" rx="24" fill="url(#bg)"/>
+<rect x="14" y="14" width="322" height="572" rx="15" fill="none" stroke="#d9b96a" stroke-width="2.5"/>
+<rect x="23" y="23" width="304" height="554" rx="11" fill="none" stroke="#8f7b3f" stroke-width="1"/>
+<rect x="30" y="30" width="290" height="540" rx="9" fill="url(#halo)"/>
+<polygon points="58.0,56.0 60.8,62.1 67.5,62.9 62.6,67.5 63.9,74.1 58.0,70.8 52.1,74.1 53.4,67.5 48.5,62.9 55.2,62.1" fill="#d8d8e0"/><polygon points="292.0,56.0 294.8,62.1 301.5,62.9 296.6,67.5 297.9,74.1 292.0,70.8 286.1,74.1 287.4,67.5 282.5,62.9 289.2,62.1" fill="#d8d8e0"/><polygon points="58.0,524.0 60.8,530.1 67.5,530.9 62.6,535.5 63.9,542.1 58.0,538.8 52.1,542.1 53.4,535.5 48.5,530.9 55.2,530.1" fill="#d8d8e0"/><polygon points="292.0,524.0 294.8,530.1 301.5,530.9 296.6,535.5 297.9,542.1 292.0,538.8 286.1,542.1 287.4,535.5 282.5,530.9 289.2,530.1" fill="#d8d8e0"/>
+<rect x="44" y="44" width="262" height="64" rx="32" fill="none" stroke="#d8d8e0" stroke-width="1.6"/>
+<text x="175" y="86" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#f3e6bd" font-weight="bold">XIII</text>
+<text x="175" y="102" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="2" fill="#d8d8e0">DEATH</text>
+<path d="M 175 217 Q 233 222.8 216.76 269.2 Q 216.76 301.1 204 310.96 L 191.24 322.56 Q 183.12 331.84 175 331.84 Q 166.88 331.84 158.76 322.56 L 146 310.96 Q 133.24 301.1 133.24 269.2 Q 117 222.8 175 217 Z" fill="#d8d8e0"/><circle cx="157.6" cy="269.2" r="11.600000000000001" fill="#241b3d"/><circle cx="192.4" cy="269.2" r="11.600000000000001" fill="#241b3d"/><path d="M 165.72 285.44 L 172.1 295.88 L 175 292.4 L 177.9 295.88 L 184.28 285.44 Z" fill="#241b3d"/><g transform="rotate(-30 118 392)"><line x1="52" y1="458" x2="177.4" y2="345.8" stroke="#d9b96a" stroke-width="8" stroke-linecap="round"/><path d="M 177.4 345.8 Q 230.2 378.8 170.8 425 Q 180.7 408.5 164.2 398.6 Q 190.60000000000002 365.6 177.4 345.8 Z" fill="#d9b96a"/></g>
+<rect x="54" y="502" width="242" height="58" rx="29" fill="none" stroke="#8f7b3f" stroke-width="1.4"/>
+<text x="175" y="540" text-anchor="middle" font-family="Georgia, 'Microsoft YaHei', serif" font-size="30" fill="#f3e6bd">死神</text>
+</svg>
